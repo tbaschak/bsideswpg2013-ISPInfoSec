@@ -71,7 +71,7 @@ Presentation source/download available at [github.com/tbaschak/bsideswpg2013-ISP
 # Problems? What Problems?
 
 * There are **many** common problems that affect ISPs and even large corporate/enterprise networks.
-* To make the situation better, we all have to acknowledge and resolve all reported problems to make the situation any better.
+* To make the situation better, we all have to acknowledge and resolve all reported problems.
 * Luckily there are many tools available to make this process easier.
 
 # Specific ISP-Related Problems
